@@ -14,9 +14,9 @@ Com o objetivo principal de colocar em prática umas das principais ferramentas 
 
 4. Para que o código fique mais legível e de fácil manutenção, iremos utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: 
 
-   - [ ] Abstração
+   - [x] Abstração
 
-   - [ ] Encapsulamento
+   - [x] Encapsulamento
 
    - [ ] Herança
 
@@ -25,6 +25,14 @@ Com o objetivo principal de colocar em prática umas das principais ferramentas 
      
 
 5. E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS
+
+
+
+##### Classes criadas
+
+- [x] Curso
+- [x] Menoria
+- [ ] Devs
 
 
 
