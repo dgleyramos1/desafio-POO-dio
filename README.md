@@ -33,8 +33,8 @@ Com o objetivo principal de colocar em prática umas das principais ferramentas 
 - [x] Curso
 - [x] Menoria
 - [x] Conteudo
-- [ ] Devs
-- [ ] Bootcamp
+- [x] Dev
+- [x] Bootcamp
 
 
 
