@@ -18,9 +18,9 @@ Com o objetivo principal de colocar em prática umas das principais ferramentas 
 
    - [x] Encapsulamento
 
-   - [ ] Herança
+   - [x] Herança
 
-   - [ ] Polimorfismo
+   - [x] Polimorfismo
 
      
 
@@ -32,7 +32,9 @@ Com o objetivo principal de colocar em prática umas das principais ferramentas 
 
 - [x] Curso
 - [x] Menoria
+- [x] Conteudo
 - [ ] Devs
+- [ ] Bootcamp
 
 
 
