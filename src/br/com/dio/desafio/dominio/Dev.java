@@ -37,19 +37,19 @@ public class Dev {
         this.nome = nome;
     }
 
-    public Set<Conteudo> getConteudoInscrito() {
+    public Set<Conteudo> getConteudoInscritos() {
         return conteudoInscritos;
     }
 
-    public void setConteudoInscrito(Set<Conteudo> conteudoInscrito) {
+    public void setConteudoInscritos(Set<Conteudo> conteudoInscrito) {
         this.conteudoInscritos = conteudoInscrito;
     }
 
-    public Set<Conteudo> getConteudoConcluido() {
+    public Set<Conteudo> getConteudoConcluidos() {
         return conteudoConcluidos;
     }
 
-    public void setConteudoConcluido(Set<Conteudo> conteudoConcluido) {
+    public void setConteudoConcluidos(Set<Conteudo> conteudoConcluido) {
         this.conteudoConcluidos = conteudoConcluido;
     }
 
